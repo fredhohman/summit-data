@@ -13,7 +13,7 @@ All data in the context of InceptionV1 trained on ImageNet.
 
 * `imagenet.json`: metadata for each class including aggregated activations
 * `data/feature-vis/`: feature visualizations images 
-	* `data/feature-vis/channel/`: channel feature visualizations
+	* [`data/feature-vis/channel/`][channel]: channel feature visualizations
 	* `data/feature-vis/diversity-0/`: 1/4 diversity feature visualizations
 	* `data/feature-vis/diversity-1/`: 2/4 diversity feature visualizations
 	* `data/feature-vis/diversity-2/`: 3/4 diversity feature visualizations
@@ -48,3 +48,6 @@ For questions or support [open an issue][issues] or contact [Fred Hohman][fred].
 [summit]: https://github.com/fredhohman/summit
 [fred]: http://www.fredhohman.com
 [issues]: https://github.com/fredhohman/summit-data/issues
+
+
+[channel]: [data/feature-vis/channel/]
