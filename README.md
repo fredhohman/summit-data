@@ -11,15 +11,15 @@ For the Summit visualization, go to [https://github.com/fredhohman/summit][summi
 
 All data in the context of InceptionV1 trained on ImageNet.
 
-* `imagenet.json`: metadata for each class including aggregated activations
+* [`data/imagenet.json`][imagenet]: metadata for each class including aggregated activations
 * `data/feature-vis/`: feature visualizations images 
 	* [`data/feature-vis/channel/`][channel]: channel feature visualizations
-	* `data/feature-vis/diversity-0/`: 1/4 diversity feature visualizations
-	* `data/feature-vis/diversity-1/`: 2/4 diversity feature visualizations
-	* `data/feature-vis/diversity-2/`: 3/4 diversity feature visualizations
-	* `data/feature-vis/diversity-3/`: 4/4 diversity feature visualizations
-	* `data/feature-vis/dataset-p/`: positive dataset examples for each channel
-* `data/attribution-graphs/`: attribution graphs for each class
+	* [`data/feature-vis/diversity-0/`][diversity-0]: diversity feature visualizations (1/4)
+	* [`data/feature-vis/diversity-1/`][diversity-1]: diversity feature visualizations (2/4)
+	* [`data/feature-vis/diversity-2/`][diversity-2]: diversity feature visualizations (3/4)
+	* [`data/feature-vis/diversity-3/`][diversity-3]: diversity feature visualizations (4/4)
+	* [`data/feature-vis/dataset-p/`][dataset-p]: positive dataset examples for each channel
+* [`data/attribution-graphs/`][ag]: attribution graphs for each class
 
 ***
 
@@ -50,4 +50,11 @@ For questions or support [open an issue][issues] or contact [Fred Hohman][fred].
 [issues]: https://github.com/fredhohman/summit-data/issues
 
 
-[channel]: [data/feature-vis/channel/]
+[imagenet]: data/imagenet
+[channel]: data/feature-vis/channel/
+[diversity-0]: data/feature-vis/diversity-0/
+[diversity-1]: data/feature-vis/diversity-1/
+[diversity-2]: data/feature-vis/diversity-2/
+[diversity-3]: data/feature-vis/diversity-3/
+[dataset-p]: data/feature-vis/dataset-p/
+[ag]: data/attribution-graphs/
