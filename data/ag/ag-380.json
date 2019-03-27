@@ -1,0 +1,1975 @@
+{
+  "mixed5b": [
+    {
+      "channel": 30,
+      "count": 129,
+      "layer": "mixed5b",
+      "pagerank": 0.0008170166508189737,
+      "prev_channels": [
+        {
+          "prev_channel": 450,
+          "inf": 15
+        },
+        {
+          "prev_channel": 665,
+          "inf": 468
+        },
+        {
+          "prev_channel": 789,
+          "inf": 979
+        },
+        {
+          "prev_channel": 17,
+          "inf": 440
+        },
+        {
+          "prev_channel": 757,
+          "inf": 1286
+        },
+        {
+          "prev_channel": 378,
+          "inf": 2
+        }
+      ],
+      "attr_channels": [
+        {
+          "prev_channel": "757",
+          "inf": 1286
+        },
+        {
+          "prev_channel": "789",
+          "inf": 979
+        },
+        {
+          "prev_channel": "665",
+          "inf": 468
+        }
+      ]
+    },
+    {
+      "channel": 474,
+      "count": 192,
+      "layer": "mixed5b",
+      "pagerank": 0.0013009179553182208,
+      "prev_channels": [
+        {
+          "prev_channel": 450,
+          "inf": 518
+        },
+        {
+          "prev_channel": 665,
+          "inf": 352
+        },
+        {
+          "prev_channel": 789,
+          "inf": 416
+        },
+        {
+          "prev_channel": 17,
+          "inf": 356
+        },
+        {
+          "prev_channel": 757,
+          "inf": 1197
+        },
+        {
+          "prev_channel": 378,
+          "inf": 267
+        }
+      ],
+      "attr_channels": [
+        {
+          "prev_channel": "28",
+          "inf": 1197
+        },
+        {
+          "prev_channel": "157",
+          "inf": 887
+        },
+        {
+          "prev_channel": "152",
+          "inf": 830
+        }
+      ]
+    },
+    {
+      "channel": 561,
+      "count": 90,
+      "layer": "mixed5b",
+      "pagerank": 0.0006874258822080866,
+      "prev_channels": [
+        {
+          "prev_channel": 450,
+          "inf": 183
+        },
+        {
+          "prev_channel": 665,
+          "inf": 334
+        },
+        {
+          "prev_channel": 789,
+          "inf": 832
+        },
+        {
+          "prev_channel": 17,
+          "inf": 293
+        },
+        {
+          "prev_channel": 757,
+          "inf": 1210
+        },
+        {
+          "prev_channel": 378,
+          "inf": 302
+        }
+      ],
+      "attr_channels": [
+        {
+          "prev_channel": "173",
+          "inf": 1210
+        },
+        {
+          "prev_channel": "187",
+          "inf": 897
+        },
+        {
+          "prev_channel": "190",
+          "inf": 746
+        }
+      ]
+    },
+    {
+      "channel": 621,
+      "count": 160,
+      "layer": "mixed5b",
+      "pagerank": 0.0011180408039323548,
+      "prev_channels": [
+        {
+          "prev_channel": 450,
+          "inf": 137
+        },
+        {
+          "prev_channel": 665,
+          "inf": 554
+        },
+        {
+          "prev_channel": 789,
+          "inf": 781
+        },
+        {
+          "prev_channel": 17,
+          "inf": 573
+        },
+        {
+          "prev_channel": 757,
+          "inf": 1034
+        },
+        {
+          "prev_channel": 378,
+          "inf": 579
+        }
+      ],
+      "attr_channels": [
+        {
+          "prev_channel": "45",
+          "inf": 1034
+        },
+        {
+          "prev_channel": "94",
+          "inf": 937
+        },
+        {
+          "prev_channel": "190",
+          "inf": 781
+        }
+      ]
+    },
+    {
+      "channel": 627,
+      "count": 64,
+      "layer": "mixed5b",
+      "pagerank": 0.0005396851618926573,
+      "prev_channels": [
+        {
+          "prev_channel": 450,
+          "inf": 430
+        },
+        {
+          "prev_channel": 665,
+          "inf": 570
+        },
+        {
+          "prev_channel": 789,
+          "inf": 416
+        },
+        {
+          "prev_channel": 17,
+          "inf": 293
+        },
+        {
+          "prev_channel": 757,
+          "inf": 992
+        }
+      ],
+      "attr_channels": [
+        {
+          "prev_channel": "187",
+          "inf": 992
+        },
+        {
+          "prev_channel": "111",
+          "inf": 690
+        },
+        {
+          "prev_channel": "45",
+          "inf": 580
+        }
+      ]
+    },
+    {
+      "channel": 722,
+      "count": 79,
+      "layer": "mixed5b",
+      "pagerank": 0.0006186795940678117,
+      "prev_channels": [
+        {
+          "prev_channel": 450,
+          "inf": 518
+        },
+        {
+          "prev_channel": 665,
+          "inf": 535
+        },
+        {
+          "prev_channel": 789,
+          "inf": 832
+        },
+        {
+          "prev_channel": 17,
+          "inf": 139
+        },
+        {
+          "prev_channel": 757,
+          "inf": 1261
+        },
+        {
+          "prev_channel": 378,
+          "inf": 302
+        }
+      ],
+      "attr_channels": [
+        {
+          "prev_channel": "173",
+          "inf": 1261
+        },
+        {
+          "prev_channel": "45",
+          "inf": 1103
+        },
+        {
+          "prev_channel": "28",
+          "inf": 804
+        }
+      ]
+    },
+    {
+      "channel": 760,
+      "count": 70,
+      "layer": "mixed5b",
+      "pagerank": 0.0005562851717807346,
+      "prev_channels": [
+        {
+          "prev_channel": 450,
+          "inf": 453
+        },
+        {
+          "prev_channel": 665,
+          "inf": 349
+        },
+        {
+          "prev_channel": 789,
+          "inf": 809
+        },
+        {
+          "prev_channel": 757,
+          "inf": 1097
+        },
+        {
+          "prev_channel": 378,
+          "inf": 302
+        }
+      ],
+      "attr_channels": [
+        {
+          "prev_channel": "60",
+          "inf": 1124
+        },
+        {
+          "prev_channel": "45",
+          "inf": 1097
+        },
+        {
+          "prev_channel": "5",
+          "inf": 899
+        }
+      ]
+    },
+    {
+      "channel": 122,
+      "count": 209,
+      "layer": "mixed5b",
+      "pagerank": 0.0013018095381681308,
+      "prev_channels": [
+        {
+          "prev_channel": 665,
+          "inf": 277
+        },
+        {
+          "prev_channel": 789,
+          "inf": 745
+        },
+        {
+          "prev_channel": 17,
+          "inf": 804
+        },
+        {
+          "prev_channel": 757,
+          "inf": 1281
+        }
+      ],
+      "attr_channels": [
+        {
+          "prev_channel": "757",
+          "inf": 1281
+        },
+        {
+          "prev_channel": "17",
+          "inf": 804
+        },
+        {
+          "prev_channel": "789",
+          "inf": 745
+        }
+      ]
+    },
+    {
+      "channel": 207,
+      "count": 122,
+      "layer": "mixed5b",
+      "pagerank": 0.0007723010272292586,
+      "prev_channels": [
+        {
+          "prev_channel": 665,
+          "inf": 254
+        },
+        {
+          "prev_channel": 757,
+          "inf": 1286
+        },
+        {
+          "prev_channel": 378,
+          "inf": 320
+        }
+      ],
+      "attr_channels": [
+        {
+          "prev_channel": "757",
+          "inf": 1286
+        },
+        {
+          "prev_channel": "628",
+          "inf": 497
+        },
+        {
+          "prev_channel": "103",
+          "inf": 343
+        }
+      ]
+    },
+    {
+      "channel": 54,
+      "count": 210,
+      "layer": "mixed5b",
+      "pagerank": 0.0013063061156359033,
+      "prev_channels": [
+        {
+          "prev_channel": 789,
+          "inf": 510
+        },
+        {
+          "prev_channel": 17,
+          "inf": 19
+        },
+        {
+          "prev_channel": 757,
+          "inf": 1249
+        },
+        {
+          "prev_channel": 378,
+          "inf": 136
+        }
+      ],
+      "attr_channels": [
+        {
+          "prev_channel": "757",
+          "inf": 1249
+        },
+        {
+          "prev_channel": "67",
+          "inf": 591
+        },
+        {
+          "prev_channel": "789",
+          "inf": 510
+        }
+      ]
+    },
+    {
+      "channel": 79,
+      "count": 98,
+      "layer": "mixed5b",
+      "pagerank": 0.0006294166954230445,
+      "prev_channels": [
+        {
+          "prev_channel": 789,
+          "inf": 687
+        },
+        {
+          "prev_channel": 17,
+          "inf": 744
+        },
+        {
+          "prev_channel": 757,
+          "inf": 1254
+        }
+      ],
+      "attr_channels": [
+        {
+          "prev_channel": "757",
+          "inf": 1254
+        },
+        {
+          "prev_channel": "17",
+          "inf": 744
+        },
+        {
+          "prev_channel": "789",
+          "inf": 687
+        }
+      ]
+    }
+  ],
+  "mixed5a": [
+    {
+      "channel": 450,
+      "count": 185,
+      "layer": "mixed5a",
+      "pagerank": 0.0012765714133719313,
+      "prev_channels": [
+        {
+          "prev_channel": 831,
+          "inf": 1135
+        },
+        {
+          "prev_channel": 750,
+          "inf": 939
+        },
+        {
+          "prev_channel": 763,
+          "inf": 729
+        },
+        {
+          "prev_channel": 608,
+          "inf": 585
+        },
+        {
+          "prev_channel": 823,
+          "inf": 469
+        },
+        {
+          "prev_channel": 721,
+          "inf": 325
+        }
+      ],
+      "attr_channels": [
+        {
+          "prev_channel": "128",
+          "inf": 1135
+        },
+        {
+          "prev_channel": "31",
+          "inf": 939
+        },
+        {
+          "prev_channel": "47",
+          "inf": 821
+        }
+      ]
+    },
+    {
+      "channel": 665,
+      "count": 315,
+      "layer": "mixed5a",
+      "pagerank": 0.002027237841068456,
+      "prev_channels": [
+        {
+          "prev_channel": 823,
+          "inf": 976
+        },
+        {
+          "prev_channel": 831,
+          "inf": 939
+        },
+        {
+          "prev_channel": 750,
+          "inf": 308
+        },
+        {
+          "prev_channel": 763,
+          "inf": 214
+        },
+        {
+          "prev_channel": 608,
+          "inf": 148
+        }
+      ],
+      "attr_channels": [
+        {
+          "prev_channel": "9",
+          "inf": 1211
+        },
+        {
+          "prev_channel": "26",
+          "inf": 1203
+        },
+        {
+          "prev_channel": "23",
+          "inf": 1176
+        }
+      ]
+    },
+    {
+      "channel": 789,
+      "count": 78,
+      "layer": "mixed5a",
+      "pagerank": 0.00197822946567492,
+      "prev_channels": [
+        {
+          "prev_channel": 608,
+          "inf": 455
+        },
+        {
+          "prev_channel": 763,
+          "inf": 161
+        },
+        {
+          "prev_channel": 823,
+          "inf": 69
+        }
+      ],
+      "attr_channels": [
+        {
+          "prev_channel": "389",
+          "inf": 967
+        },
+        {
+          "prev_channel": "574",
+          "inf": 679
+        },
+        {
+          "prev_channel": "514",
+          "inf": 647
+        }
+      ]
+    },
+    {
+      "channel": 17,
+      "count": 104,
+      "layer": "mixed5a",
+      "pagerank": 0.001374985456971522,
+      "prev_channels": [
+        {
+          "prev_channel": 763,
+          "inf": 480
+        },
+        {
+          "prev_channel": 823,
+          "inf": 159
+        },
+        {
+          "prev_channel": 721,
+          "inf": 393
+        }
+      ],
+      "attr_channels": [
+        {
+          "prev_channel": "27",
+          "inf": 1022
+        },
+        {
+          "prev_channel": "382",
+          "inf": 722
+        },
+        {
+          "prev_channel": "116",
+          "inf": 552
+        }
+      ]
+    },
+    {
+      "channel": 757,
+      "count": 1137,
+      "layer": "mixed5a",
+      "pagerank": 0.005885716821996607,
+      "prev_channels": [
+        {
+          "prev_channel": 823,
+          "inf": 674
+        },
+        {
+          "prev_channel": 721,
+          "inf": 216
+        },
+        {
+          "prev_channel": 831,
+          "inf": 236
+        },
+        {
+          "prev_channel": 608,
+          "inf": 75
+        },
+        {
+          "prev_channel": 750,
+          "inf": 104
+        }
+      ],
+      "attr_channels": [
+        {
+          "prev_channel": "389",
+          "inf": 969
+        },
+        {
+          "prev_channel": "823",
+          "inf": 674
+        },
+        {
+          "prev_channel": "400",
+          "inf": 569
+        }
+      ]
+    },
+    {
+      "channel": 378,
+      "count": 73,
+      "layer": "mixed5a",
+      "pagerank": 0.0012829350102809523,
+      "prev_channels": [
+        {
+          "prev_channel": 831,
+          "inf": 985
+        },
+        {
+          "prev_channel": 750,
+          "inf": 770
+        },
+        {
+          "prev_channel": 608,
+          "inf": 585
+        },
+        {
+          "prev_channel": 763,
+          "inf": 444
+        },
+        {
+          "prev_channel": 823,
+          "inf": 409
+        },
+        {
+          "prev_channel": 721,
+          "inf": 298
+        }
+      ],
+      "attr_channels": [
+        {
+          "prev_channel": "98",
+          "inf": 1039
+        },
+        {
+          "prev_channel": "128",
+          "inf": 770
+        },
+        {
+          "prev_channel": "61",
+          "inf": 759
+        }
+      ]
+    }
+  ],
+  "mixed4e": [
+    {
+      "channel": 823,
+      "count": 269,
+      "layer": "mixed4e",
+      "pagerank": 0.001653341777290444,
+      "prev_channels": [
+        {
+          "prev_channel": 499,
+          "inf": 248
+        },
+        {
+          "prev_channel": 327,
+          "inf": 13
+        },
+        {
+          "prev_channel": 303,
+          "inf": 1
+        }
+      ],
+      "attr_channels": [
+        {
+          "prev_channel": "301",
+          "inf": 1100
+        },
+        {
+          "prev_channel": "2",
+          "inf": 1058
+        },
+        {
+          "prev_channel": "462",
+          "inf": 984
+        }
+      ]
+    },
+    {
+      "channel": 750,
+      "count": 330,
+      "layer": "mixed4e",
+      "pagerank": 0.0017290371172883946,
+      "prev_channels": [
+        {
+          "prev_channel": 327,
+          "inf": 683
+        },
+        {
+          "prev_channel": 499,
+          "inf": 1171
+        },
+        {
+          "prev_channel": 303,
+          "inf": 2
+        }
+      ],
+      "attr_channels": [
+        {
+          "prev_channel": "499",
+          "inf": 1171
+        },
+        {
+          "prev_channel": "327",
+          "inf": 683
+        },
+        {
+          "prev_channel": "501",
+          "inf": 593
+        }
+      ]
+    },
+    {
+      "channel": 831,
+      "count": 614,
+      "layer": "mixed4e",
+      "pagerank": 0.0026192276489096886,
+      "prev_channels": [
+        {
+          "prev_channel": 327,
+          "inf": 1003
+        },
+        {
+          "prev_channel": 499,
+          "inf": 1232
+        },
+        {
+          "prev_channel": 303,
+          "inf": 263
+        },
+        {
+          "prev_channel": 168,
+          "inf": 177
+        }
+      ],
+      "attr_channels": [
+        {
+          "prev_channel": "499",
+          "inf": 1232
+        },
+        {
+          "prev_channel": "327",
+          "inf": 1003
+        },
+        {
+          "prev_channel": "308",
+          "inf": 889
+        }
+      ]
+    },
+    {
+      "channel": 608,
+      "count": 326,
+      "layer": "mixed4e",
+      "pagerank": 0.0014208017059988648,
+      "prev_channels": [
+        {
+          "prev_channel": 499,
+          "inf": 1211
+        },
+        {
+          "prev_channel": 428,
+          "inf": 981
+        },
+        {
+          "prev_channel": 168,
+          "inf": 374
+        },
+        {
+          "prev_channel": 303,
+          "inf": 318
+        },
+        {
+          "prev_channel": 327,
+          "inf": 313
+        },
+        {
+          "prev_channel": 463,
+          "inf": 150
+        }
+      ],
+      "attr_channels": [
+        {
+          "prev_channel": "1",
+          "inf": 1298
+        },
+        {
+          "prev_channel": "23",
+          "inf": 1296
+        },
+        {
+          "prev_channel": "0",
+          "inf": 1271
+        }
+      ]
+    },
+    {
+      "channel": 721,
+      "count": 192,
+      "layer": "mixed4e",
+      "pagerank": 0.001253368537216732,
+      "prev_channels": [
+        {
+          "prev_channel": 499,
+          "inf": 617
+        },
+        {
+          "prev_channel": 303,
+          "inf": 695
+        }
+      ],
+      "attr_channels": [
+        {
+          "prev_channel": "78",
+          "inf": 803
+        },
+        {
+          "prev_channel": "40",
+          "inf": 741
+        },
+        {
+          "prev_channel": "303",
+          "inf": 695
+        }
+      ]
+    },
+    {
+      "channel": 763,
+      "count": 157,
+      "layer": "mixed4e",
+      "pagerank": 0.0012241120830987348,
+      "prev_channels": [
+        {
+          "prev_channel": 327,
+          "inf": 78
+        }
+      ],
+      "attr_channels": [
+        {
+          "prev_channel": "245",
+          "inf": 953
+        },
+        {
+          "prev_channel": "461",
+          "inf": 705
+        },
+        {
+          "prev_channel": "261",
+          "inf": 591
+        }
+      ]
+    }
+  ],
+  "mixed4d": [
+    {
+      "channel": 327,
+      "count": 389,
+      "layer": "mixed4d",
+      "pagerank": 0.0012920408805397392,
+      "prev_channels": [
+        {
+          "prev_channel": 391,
+          "inf": 620
+        },
+        {
+          "prev_channel": 264,
+          "inf": 551
+        },
+        {
+          "prev_channel": 219,
+          "inf": 489
+        },
+        {
+          "prev_channel": 225,
+          "inf": 223
+        }
+      ],
+      "attr_channels": [
+        {
+          "prev_channel": "58",
+          "inf": 1290
+        },
+        {
+          "prev_channel": "116",
+          "inf": 900
+        },
+        {
+          "prev_channel": "60",
+          "inf": 812
+        }
+      ]
+    },
+    {
+      "channel": 428,
+      "count": 163,
+      "layer": "mixed4d",
+      "pagerank": 0.001005841529850987,
+      "prev_channels": [
+        {
+          "prev_channel": 414,
+          "inf": 963
+        },
+        {
+          "prev_channel": 264,
+          "inf": 674
+        },
+        {
+          "prev_channel": 219,
+          "inf": 602
+        },
+        {
+          "prev_channel": 225,
+          "inf": 365
+        }
+      ],
+      "attr_channels": [
+        {
+          "prev_channel": "6",
+          "inf": 1286
+        },
+        {
+          "prev_channel": "0",
+          "inf": 1075
+        },
+        {
+          "prev_channel": "2",
+          "inf": 1052
+        }
+      ]
+    },
+    {
+      "channel": 168,
+      "count": 273,
+      "layer": "mixed4d",
+      "pagerank": 0.0011051880279006607,
+      "prev_channels": [
+        {
+          "prev_channel": 391,
+          "inf": 613
+        },
+        {
+          "prev_channel": 219,
+          "inf": 394
+        },
+        {
+          "prev_channel": 225,
+          "inf": 314
+        },
+        {
+          "prev_channel": 264,
+          "inf": 292
+        }
+      ],
+      "attr_channels": [
+        {
+          "prev_channel": "105",
+          "inf": 1204
+        },
+        {
+          "prev_channel": "58",
+          "inf": 1028
+        },
+        {
+          "prev_channel": "32",
+          "inf": 929
+        }
+      ]
+    },
+    {
+      "channel": 499,
+      "count": 763,
+      "layer": "mixed4d",
+      "pagerank": 0.002512292777255642,
+      "prev_channels": [
+        {
+          "prev_channel": 264,
+          "inf": 690
+        },
+        {
+          "prev_channel": 391,
+          "inf": 634
+        },
+        {
+          "prev_channel": 219,
+          "inf": 201
+        },
+        {
+          "prev_channel": 225,
+          "inf": 3
+        }
+      ],
+      "attr_channels": [
+        {
+          "prev_channel": "69",
+          "inf": 885
+        },
+        {
+          "prev_channel": "264",
+          "inf": 690
+        },
+        {
+          "prev_channel": "391",
+          "inf": 634
+        }
+      ]
+    },
+    {
+      "channel": 303,
+      "count": 303,
+      "layer": "mixed4d",
+      "pagerank": 0.0010645429369354267,
+      "prev_channels": [
+        {
+          "prev_channel": 225,
+          "inf": 879
+        },
+        {
+          "prev_channel": 391,
+          "inf": 613
+        },
+        {
+          "prev_channel": 219,
+          "inf": 279
+        }
+      ],
+      "attr_channels": [
+        {
+          "prev_channel": "108",
+          "inf": 1293
+        },
+        {
+          "prev_channel": "58",
+          "inf": 1192
+        },
+        {
+          "prev_channel": "47",
+          "inf": 956
+        }
+      ]
+    },
+    {
+      "channel": 463,
+      "count": 74,
+      "layer": "mixed4d",
+      "pagerank": 0.000979249641109898,
+      "prev_channels": [
+        {
+          "prev_channel": 414,
+          "inf": 1290
+        },
+        {
+          "prev_channel": 391,
+          "inf": 654
+        },
+        {
+          "prev_channel": 225,
+          "inf": 222
+        },
+        {
+          "prev_channel": 264,
+          "inf": 172
+        }
+      ],
+      "attr_channels": [
+        {
+          "prev_channel": "21",
+          "inf": 1299
+        },
+        {
+          "prev_channel": "17",
+          "inf": 1290
+        },
+        {
+          "prev_channel": "28",
+          "inf": 1039
+        }
+      ]
+    }
+  ],
+  "mixed4c": [
+    {
+      "channel": 264,
+      "count": 441,
+      "layer": "mixed4c",
+      "pagerank": 0.0016339581908365638,
+      "prev_channels": [
+        {
+          "prev_channel": 443,
+          "inf": 919
+        },
+        {
+          "prev_channel": 429,
+          "inf": 918
+        },
+        {
+          "prev_channel": 418,
+          "inf": 561
+        }
+      ],
+      "attr_channels": [
+        {
+          "prev_channel": "14",
+          "inf": 1179
+        },
+        {
+          "prev_channel": "71",
+          "inf": 840
+        },
+        {
+          "prev_channel": "74",
+          "inf": 809
+        }
+      ]
+    },
+    {
+      "channel": 219,
+      "count": 367,
+      "layer": "mixed4c",
+      "pagerank": 0.001682351208785004,
+      "prev_channels": [
+        {
+          "prev_channel": 443,
+          "inf": 646
+        },
+        {
+          "prev_channel": 429,
+          "inf": 646
+        },
+        {
+          "prev_channel": 436,
+          "inf": 512
+        },
+        {
+          "prev_channel": 398,
+          "inf": 443
+        },
+        {
+          "prev_channel": 418,
+          "inf": 417
+        },
+        {
+          "prev_channel": 408,
+          "inf": 400
+        }
+      ],
+      "attr_channels": [
+        {
+          "prev_channel": "101",
+          "inf": 724
+        },
+        {
+          "prev_channel": "15",
+          "inf": 718
+        },
+        {
+          "prev_channel": "97",
+          "inf": 665
+        }
+      ]
+    },
+    {
+      "channel": 391,
+      "count": 342,
+      "layer": "mixed4c",
+      "pagerank": 0.0016165190514194905,
+      "prev_channels": [
+        {
+          "prev_channel": 443,
+          "inf": 815
+        },
+        {
+          "prev_channel": 418,
+          "inf": 626
+        },
+        {
+          "prev_channel": 408,
+          "inf": 525
+        },
+        {
+          "prev_channel": 436,
+          "inf": 418
+        },
+        {
+          "prev_channel": 429,
+          "inf": 360
+        }
+      ],
+      "attr_channels": [
+        {
+          "prev_channel": "13",
+          "inf": 1290
+        },
+        {
+          "prev_channel": "4",
+          "inf": 1289
+        },
+        {
+          "prev_channel": "23",
+          "inf": 1277
+        }
+      ]
+    },
+    {
+      "channel": 225,
+      "count": 405,
+      "layer": "mixed4c",
+      "pagerank": 0.0015290399876928087,
+      "prev_channels": [
+        {
+          "prev_channel": 429,
+          "inf": 472
+        },
+        {
+          "prev_channel": 443,
+          "inf": 430
+        },
+        {
+          "prev_channel": 418,
+          "inf": 398
+        },
+        {
+          "prev_channel": 408,
+          "inf": 331
+        }
+      ],
+      "attr_channels": [
+        {
+          "prev_channel": "8",
+          "inf": 1120
+        },
+        {
+          "prev_channel": "29",
+          "inf": 877
+        },
+        {
+          "prev_channel": "26",
+          "inf": 675
+        }
+      ]
+    },
+    {
+      "channel": 414,
+      "count": 526,
+      "layer": "mixed4c",
+      "pagerank": 0.0017420685970937486,
+      "prev_channels": [
+        {
+          "prev_channel": 436,
+          "inf": 1138
+        },
+        {
+          "prev_channel": 398,
+          "inf": 1132
+        },
+        {
+          "prev_channel": 443,
+          "inf": 871
+        },
+        {
+          "prev_channel": 429,
+          "inf": 746
+        },
+        {
+          "prev_channel": 418,
+          "inf": 626
+        },
+        {
+          "prev_channel": 408,
+          "inf": 339
+        }
+      ],
+      "attr_channels": [
+        {
+          "prev_channel": "10",
+          "inf": 1296
+        },
+        {
+          "prev_channel": "3",
+          "inf": 1229
+        },
+        {
+          "prev_channel": "8",
+          "inf": 914
+        }
+      ]
+    }
+  ],
+  "mixed4b": [
+    {
+      "channel": 408,
+      "count": 278,
+      "layer": "mixed4b",
+      "pagerank": 0.001480191761891132,
+      "prev_channels": [
+        {
+          "prev_channel": 140,
+          "inf": 1188
+        },
+        {
+          "prev_channel": 208,
+          "inf": 1011
+        },
+        {
+          "prev_channel": 199,
+          "inf": 643
+        },
+        {
+          "prev_channel": 267,
+          "inf": 563
+        },
+        {
+          "prev_channel": 201,
+          "inf": 496
+        },
+        {
+          "prev_channel": 223,
+          "inf": 161
+        }
+      ],
+      "attr_channels": [
+        {
+          "prev_channel": "4",
+          "inf": 1225
+        },
+        {
+          "prev_channel": "19",
+          "inf": 1225
+        },
+        {
+          "prev_channel": "15",
+          "inf": 1128
+        }
+      ]
+    },
+    {
+      "channel": 429,
+      "count": 271,
+      "layer": "mixed4b",
+      "pagerank": 0.0015322021248425687,
+      "prev_channels": [
+        {
+          "prev_channel": 140,
+          "inf": 1188
+        },
+        {
+          "prev_channel": 199,
+          "inf": 643
+        },
+        {
+          "prev_channel": 267,
+          "inf": 563
+        },
+        {
+          "prev_channel": 201,
+          "inf": 491
+        },
+        {
+          "prev_channel": 208,
+          "inf": 466
+        }
+      ],
+      "attr_channels": [
+        {
+          "prev_channel": "19",
+          "inf": 1279
+        },
+        {
+          "prev_channel": "7",
+          "inf": 1219
+        },
+        {
+          "prev_channel": "8",
+          "inf": 1195
+        }
+      ]
+    },
+    {
+      "channel": 443,
+      "count": 350,
+      "layer": "mixed4b",
+      "pagerank": 0.0017724625311723104,
+      "prev_channels": [
+        {
+          "prev_channel": 140,
+          "inf": 854
+        },
+        {
+          "prev_channel": 223,
+          "inf": 769
+        },
+        {
+          "prev_channel": 199,
+          "inf": 643
+        },
+        {
+          "prev_channel": 201,
+          "inf": 491
+        },
+        {
+          "prev_channel": 208,
+          "inf": 466
+        },
+        {
+          "prev_channel": 267,
+          "inf": 312
+        }
+      ],
+      "attr_channels": [
+        {
+          "prev_channel": "9",
+          "inf": 1297
+        },
+        {
+          "prev_channel": "8",
+          "inf": 965
+        },
+        {
+          "prev_channel": "2",
+          "inf": 923
+        }
+      ]
+    },
+    {
+      "channel": 418,
+      "count": 463,
+      "layer": "mixed4b",
+      "pagerank": 0.002043212591236301,
+      "prev_channels": [
+        {
+          "prev_channel": 140,
+          "inf": 910
+        },
+        {
+          "prev_channel": 199,
+          "inf": 643
+        },
+        {
+          "prev_channel": 267,
+          "inf": 563
+        },
+        {
+          "prev_channel": 201,
+          "inf": 491
+        },
+        {
+          "prev_channel": 208,
+          "inf": 466
+        }
+      ],
+      "attr_channels": [
+        {
+          "prev_channel": "2",
+          "inf": 1194
+        },
+        {
+          "prev_channel": "6",
+          "inf": 1191
+        },
+        {
+          "prev_channel": "19",
+          "inf": 910
+        }
+      ]
+    },
+    {
+      "channel": 398,
+      "count": 262,
+      "layer": "mixed4b",
+      "pagerank": 0.001410638995587919,
+      "prev_channels": [
+        {
+          "prev_channel": 140,
+          "inf": 594
+        },
+        {
+          "prev_channel": 199,
+          "inf": 594
+        },
+        {
+          "prev_channel": 201,
+          "inf": 491
+        },
+        {
+          "prev_channel": 208,
+          "inf": 466
+        },
+        {
+          "prev_channel": 267,
+          "inf": 312
+        }
+      ],
+      "attr_channels": [
+        {
+          "prev_channel": "16",
+          "inf": 1290
+        },
+        {
+          "prev_channel": "6",
+          "inf": 1147
+        },
+        {
+          "prev_channel": "21",
+          "inf": 1077
+        }
+      ]
+    },
+    {
+      "channel": 436,
+      "count": 349,
+      "layer": "mixed4b",
+      "pagerank": 0.0016729540994235373,
+      "prev_channels": [
+        {
+          "prev_channel": 140,
+          "inf": 719
+        },
+        {
+          "prev_channel": 208,
+          "inf": 652
+        },
+        {
+          "prev_channel": 199,
+          "inf": 643
+        },
+        {
+          "prev_channel": 267,
+          "inf": 563
+        },
+        {
+          "prev_channel": 201,
+          "inf": 491
+        },
+        {
+          "prev_channel": 223,
+          "inf": 174
+        }
+      ],
+      "attr_channels": [
+        {
+          "prev_channel": "23",
+          "inf": 1278
+        },
+        {
+          "prev_channel": "2",
+          "inf": 1086
+        },
+        {
+          "prev_channel": "21",
+          "inf": 847
+        }
+      ]
+    }
+  ],
+  "mixed4a": [
+    {
+      "channel": 140,
+      "count": 234,
+      "layer": "mixed4a",
+      "pagerank": 0.0015295518598625725,
+      "prev_channels": [
+        {
+          "prev_channel": 238,
+          "inf": 1098
+        }
+      ],
+      "attr_channels": [
+        {
+          "prev_channel": "204",
+          "inf": 1299
+        },
+        {
+          "prev_channel": "412",
+          "inf": 1299
+        },
+        {
+          "prev_channel": "390",
+          "inf": 1299
+        }
+      ]
+    },
+    {
+      "channel": 208,
+      "count": 396,
+      "layer": "mixed4a",
+      "pagerank": 0.0015308360658248682,
+      "prev_channels": [
+        {
+          "prev_channel": 214,
+          "inf": 1153
+        }
+      ],
+      "attr_channels": [
+        {
+          "prev_channel": "57",
+          "inf": 1299
+        },
+        {
+          "prev_channel": "38",
+          "inf": 1098
+        },
+        {
+          "prev_channel": "34",
+          "inf": 961
+        }
+      ]
+    },
+    {
+      "channel": 199,
+      "count": 270,
+      "layer": "mixed4a",
+      "pagerank": 0.0011589519052437615,
+      "prev_channels": [
+        {
+          "prev_channel": 214,
+          "inf": 454
+        },
+        {
+          "prev_channel": 378,
+          "inf": 406
+        }
+      ],
+      "attr_channels": [
+        {
+          "prev_channel": "49",
+          "inf": 1160
+        },
+        {
+          "prev_channel": "68",
+          "inf": 1004
+        },
+        {
+          "prev_channel": "72",
+          "inf": 727
+        }
+      ]
+    },
+    {
+      "channel": 201,
+      "count": 483,
+      "layer": "mixed4a",
+      "pagerank": 0.0015475380679142135,
+      "prev_channels": [
+        {
+          "prev_channel": 214,
+          "inf": 593
+        },
+        {
+          "prev_channel": 378,
+          "inf": 568
+        }
+      ],
+      "attr_channels": [
+        {
+          "prev_channel": "68",
+          "inf": 1258
+        },
+        {
+          "prev_channel": "72",
+          "inf": 992
+        },
+        {
+          "prev_channel": "38",
+          "inf": 593
+        }
+      ]
+    },
+    {
+      "channel": 267,
+      "count": 783,
+      "layer": "mixed4a",
+      "pagerank": 0.002172434732452014,
+      "prev_channels": [
+        {
+          "prev_channel": 378,
+          "inf": 293
+        }
+      ],
+      "attr_channels": [
+        {
+          "prev_channel": "78",
+          "inf": 1211
+        },
+        {
+          "prev_channel": "6",
+          "inf": 914
+        },
+        {
+          "prev_channel": "49",
+          "inf": 792
+        }
+      ]
+    },
+    {
+      "channel": 223,
+      "count": 247,
+      "layer": "mixed4a",
+      "pagerank": 0.0010916367990254957,
+      "prev_channels": [
+        {
+          "prev_channel": 214,
+          "inf": 1153
+        }
+      ],
+      "attr_channels": [
+        {
+          "prev_channel": "57",
+          "inf": 1299
+        },
+        {
+          "prev_channel": "53",
+          "inf": 1217
+        },
+        {
+          "prev_channel": "33",
+          "inf": 1180
+        }
+      ]
+    }
+  ],
+  "mixed3b": [
+    {
+      "channel": 415,
+      "count": 237,
+      "layer": "mixed3b",
+      "pagerank": 0.0012791297683928083,
+      "prev_channels": [],
+      "attr_channels": [
+        {
+          "prev_channel": "6",
+          "inf": 1299
+        },
+        {
+          "prev_channel": "28",
+          "inf": 1299
+        },
+        {
+          "prev_channel": "14",
+          "inf": 1294
+        }
+      ]
+    },
+    {
+      "channel": 378,
+      "count": 208,
+      "layer": "mixed3b",
+      "pagerank": 0.0012121951633488099,
+      "prev_channels": [
+        {
+          "prev_channel": 152,
+          "inf": 1292
+        }
+      ],
+      "attr_channels": [
+        {
+          "prev_channel": "20",
+          "inf": 1298
+        },
+        {
+          "prev_channel": "31",
+          "inf": 1298
+        },
+        {
+          "prev_channel": "28",
+          "inf": 868
+        }
+      ]
+    },
+    {
+      "channel": 214,
+      "count": 95,
+      "layer": "mixed3b",
+      "pagerank": 0.0011921876730173232,
+      "prev_channels": [
+        {
+          "prev_channel": 152,
+          "inf": 1299
+        },
+        {
+          "prev_channel": 76,
+          "inf": 811
+        }
+      ],
+      "attr_channels": [
+        {
+          "prev_channel": "12",
+          "inf": 1299
+        },
+        {
+          "prev_channel": "28",
+          "inf": 1299
+        },
+        {
+          "prev_channel": "51",
+          "inf": 1280
+        }
+      ]
+    },
+    {
+      "channel": 352,
+      "count": 217,
+      "layer": "mixed3b",
+      "pagerank": 0.001183356070942928,
+      "prev_channels": [],
+      "attr_channels": [
+        {
+          "prev_channel": "29",
+          "inf": 1294
+        },
+        {
+          "prev_channel": "14",
+          "inf": 1243
+        },
+        {
+          "prev_channel": "3",
+          "inf": 1009
+        }
+      ]
+    },
+    {
+      "channel": 152,
+      "count": 268,
+      "layer": "mixed3b",
+      "pagerank": 0.0011895636073754236,
+      "prev_channels": [
+        {
+          "prev_channel": 76,
+          "inf": 1293
+        }
+      ],
+      "attr_channels": [
+        {
+          "prev_channel": "102",
+          "inf": 1294
+        },
+        {
+          "prev_channel": "123",
+          "inf": 1293
+        },
+        {
+          "prev_channel": "15",
+          "inf": 1263
+        }
+      ]
+    },
+    {
+      "channel": 379,
+      "count": 252,
+      "layer": "mixed3b",
+      "pagerank": 0.0012419817865848013,
+      "prev_channels": [],
+      "attr_channels": [
+        {
+          "prev_channel": "19",
+          "inf": 1299
+        },
+        {
+          "prev_channel": "7",
+          "inf": 1299
+        },
+        {
+          "prev_channel": "8",
+          "inf": 1291
+        }
+      ]
+    },
+    {
+      "channel": 238,
+      "count": 384,
+      "layer": "mixed3b",
+      "pagerank": 0.001384876223369142,
+      "prev_channels": [
+        {
+          "prev_channel": 152,
+          "inf": 1299
+        }
+      ],
+      "attr_channels": [
+        {
+          "prev_channel": "28",
+          "inf": 1299
+        },
+        {
+          "prev_channel": "39",
+          "inf": 1287
+        },
+        {
+          "prev_channel": "76",
+          "inf": 756
+        }
+      ]
+    }
+  ],
+  "mixed3a": [
+    {
+      "channel": 76,
+      "count": 680,
+      "layer": "mixed3a",
+      "pagerank": 0.0018852456088417186,
+      "prev_channels": [],
+      "attr_channels": []
+    },
+    {
+      "channel": 152,
+      "count": 380,
+      "layer": "mixed3a",
+      "pagerank": 0.0018398586788126456,
+      "prev_channels": [],
+      "attr_channels": []
+    }
+  ]
+}
