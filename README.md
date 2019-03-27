@@ -2,6 +2,13 @@
 
 *Summit: Scaling Deep Learning Interpretability by Visualizing Activation and Attribution Summarizations*
 
+```
+NOTE: This project has not been announced yet.
+
+Please check back in early April. :)
+```
+
+
 Summit is a an interactive system that summarizes and visualizes what features a deep learning model has learned and how those features interact to make predictions.
 This repository contains the data used in the [Summit visualization][summit].
 
