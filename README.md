@@ -19,7 +19,7 @@ All data in the context of InceptionV1 trained on ImageNet.
 	* [`data/feature-vis/diversity-2/`][diversity-2]: diversity feature visualizations (3/4)
 	* [`data/feature-vis/diversity-3/`][diversity-3]: diversity feature visualizations (4/4)
 	* [`data/feature-vis/dataset-p/`][dataset-p]: positive dataset examples for each channel
-* [`data/attribution-graphs/`][ag]: attribution graphs for each class
+* [`data/ag/`][ag]: attribution graphs for each class
 
 ***
 
@@ -48,7 +48,6 @@ For questions or support [open an issue][issues] or contact [Fred Hohman][fred].
 [summit]: https://github.com/fredhohman/summit
 [fred]: http://www.fredhohman.com
 [issues]: https://github.com/fredhohman/summit-data/issues
-
 
 [imagenet]: data/imagenet
 [channel]: data/feature-vis/channel/
