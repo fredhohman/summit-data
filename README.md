@@ -29,7 +29,7 @@ All data in the context of InceptionV1 trained on ImageNet.
 
 ## Live Demo
 
-For a live demo, visit: 
+For a live demo, visit: [fredhohman.com/summit][demo]
 
 
 ## Installation
@@ -50,6 +50,7 @@ MIT License. See [`LICENSE.md`](LICENSE.md).
 For questions or support [open an issue][issues] or contact [Fred Hohman][fred].
 
 [summit]: https://github.com/fredhohman/summit
+[demo]: https://fredhohman.com/summit/
 [fred]: http://www.fredhohman.com
 [issues]: https://github.com/fredhohman/summit-data/issues
 
