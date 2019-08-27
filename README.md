@@ -1,15 +1,10 @@
 # Summit Data
 
-```
-NOTE: this project has not been announced yet, but will be at a later date. Please check back soon!
-```
-
-*Summit: Scaling Deep Learning Interpretability by Visualizing Activation and Attribution Summarizations*
-
-Summit is a an interactive system that summarizes and visualizes what features a deep learning model has learned and how those features interact to make predictions.
+Summit is an interactive system that scalably and systematically summarizes and visualizes what features a deep learning model has learned and how those features interact to make predictions.
 This repository contains the data used in the [Summit visualization][summit].
 
 For the Summit visualization, go to [https://github.com/fredhohman/summit][summit].
+
 
 ### Data
 
@@ -32,13 +27,19 @@ All data in the context of InceptionV1 trained on ImageNet.
 For a live demo, visit: [fredhohman.com/summit][demo]
 
 
-## Installation
+## Download
 
 Download or clone this repository (*warning*: this repository is big (~1GB)):
 
 ```bash
 git clone https://github.com/fredhohman/summit-data.git
 ```
+
+
+## Resources
+
+We use feature visualizations from [Feature Visualization, Distill 2017][fv], and [Lucid][lucid].
+
 
 ## License
 
@@ -62,3 +63,6 @@ For questions or support [open an issue][issues] or contact [Fred Hohman][fred].
 [diversity-3]: data/feature-vis/diversity-3/
 [dataset-p]: data/feature-vis/dataset-p/
 [ag]: data/attribution-graphs/
+
+[fv]: https://github.com/distillpub/post--feature-visualization
+[lucid]: https://github.com/tensorflow/lucid
