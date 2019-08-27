@@ -3,7 +3,7 @@
 Summit is an interactive system that scalably and systematically summarizes and visualizes what features a deep learning model has learned and how those features interact to make predictions.
 This repository contains the data used in the [Summit visualization][summit].
 
-For the Summit visualization, go to [https://github.com/fredhohman/summit][summit].
+For the main Summit repo, go to [https://github.com/fredhohman/summit][summit].
 
 
 ### Data
@@ -20,7 +20,6 @@ All data in the context of InceptionV1 trained on ImageNet.
 	* [`data/feature-vis/dataset-p/`][dataset-p]: positive dataset examples for each channel
 * [`data/ag/`][ag]: attribution graphs for each class
 
-***
 
 ## Live Demo
 
@@ -29,7 +28,7 @@ For a live demo, visit: [fredhohman.com/summit][demo]
 
 ## Download
 
-Download or clone this repository (*warning*: this repository is big (~1GB)):
+Download or clone this repository (*warning: this repository is big (~1GB)*	):
 
 ```bash
 git clone https://github.com/fredhohman/summit-data.git
@@ -44,6 +43,20 @@ We use feature visualizations from [Feature Visualization, Distill 2017][fv], an
 ## License
 
 MIT License. See [`LICENSE.md`](LICENSE.md).
+
+
+## Citation
+
+```
+@article{hohman2020summit,
+  title={Summit: Scaling Deep Learning Interpretability by Visualizing Activation and Attribution Summarizations},
+  author={Hohman, Fred and Park, Haekyu and Robinson, Caleb and Chau, Duen Horng},
+  journal={IEEE Transactions on Visualization and Computer Graphics (TVCG)},
+  year={2020},
+  publisher={IEEE}
+  url={https://fredhohman.com/summit/}
+}
+```
 
 
 ## Contact
